@@ -2,7 +2,7 @@ package code;
 
 //import java.util.Scanner;
 
-vou ter e colcoar pra testar
+syso vou ter e colcoar pra testar
 ais asdj [dqwlç]
 dfhehyrj
 
