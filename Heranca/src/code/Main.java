@@ -1,6 +1,6 @@
 package code;
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class Main {
 
@@ -19,8 +19,8 @@ public class Main {
 		Carro carro1 = new Carro("Toyota", "yaris", 2020, 4);
 		carro1.mostrarInfo();
 		
-		Moto moto1 = new Moto("Honda", "Bros", 2021, true);
-		moto1.mostrarInfo();
+//		Moto moto1 = new Moto("Honda", "Bros", 2021, true);
+//		moto1.mostrarInfo();
 
 	}
 
