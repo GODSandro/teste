@@ -2,6 +2,8 @@ package code;
 
 //import java.util.Scanner;
 
+vou ter e colcoar pra testar
+ais asdj 
 public class Main {
 
 	public static void main(String[] args) {
@@ -20,7 +22,7 @@ public class Main {
 		carro1.mostrarInfo();
 		
 		Moto moto1 = new Moto("Honda", "Bros", 2021, true);
-//		moto1.mostrarInfo();
+		moto1.mostrarInfo();
 	}
 
 }
